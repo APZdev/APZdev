@@ -13,7 +13,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 <div align="center">
     <div style="display: flex; justify-content: center; align-items: center; width: 400px;">
         <img src="wave.gif" style="margin-bottom: 15px" width="35px" height="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-        <h2 style="font-size: 28px; color: #F3F3F3">Welcome To My Profile</h2>
+        <p style="font-size: 28px; color: #F3F3F3">Welcome To My Profile</p>
     </div>
 </div>
 <p align='center'>
@@ -41,7 +41,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 </br>
 </br>
-<h2 align="center">Programming Languages 👨‍💻</h2>
+<p style="font-size: 24px" align="center">Programming Languages 👨‍💻</p>
 <br>
 <p align='center'>
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
@@ -63,7 +63,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 </div>
 <br/><br/> -->
 
-<h2 align="center">Frameworks X Libraries ⇆ FrontEnd && Backend</h2>
+<p style="font-size: 24px" align="center">Frameworks X Libraries ⇆ FrontEnd && Backend</p>
 <br>
 <p align='center'>
     <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=white">&nbsp;&nbsp;
@@ -88,7 +88,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 </p>
 <br><br>
 
-<h2 align="center">Softwares & Apps 🎨</h2>
+<p align="center"  style="font-size: 24px">Softwares & Apps 🎨</p>
 <br>
 <p align='center'>
     <img src="https://img.shields.io/badge/Rider-d61063.svg?style=for-the-badge&logo=rider&logoColor=white">&nbsp;&nbsp;
@@ -108,7 +108,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 </p>
 <br/><br/>
 
-<h2 align="center">⚡ IOT & OS ⚙️</h2>
+<p  style="font-size: 24px" align="center">⚡ IOT & OS ⚙️</p>
 <br>
 <p align='center'>
     <img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" width="307" height="150"></img>
@@ -126,7 +126,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 </p>
 <br>
 
-<h2 align="center">Creative 🎨</h2>
+<p align="center" style="font-size: 24px">Creative 🎨</p>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
@@ -139,13 +139,13 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 <br>
 <br>
 
-<p align='center'>
+<div align='center'>
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apzdev&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apzdev&theme=github_dark) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apzdev&theme=github_dark)
 
-</p>
+</div>
 <br>
 <br>
 
@@ -157,7 +157,7 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 <br>
 <br>
 
-<h2 align="center">Profile Views 👀</h2>
+<p  style="font-size: 24px" align="center">Profile Views 👀</p>
 <br>
 <a align="center" href="https://profile-counter.glitch.me/{apzdev}/count.svg">
   
