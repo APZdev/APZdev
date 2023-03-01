@@ -159,11 +159,13 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/
 
 <p  style="font-size: 24px" align="center">Profile Views 👀</p>
 <br>
-<a align="center" href="https://profile-counter.glitch.me/{apzdev}/count.svg">
+<div align="center">
+<a href="https://profile-counter.glitch.me/{apzdev}/count.svg">
   
  ![VisitorCount](https://profile-counter.glitch.me/{apzdev}/count.svg)
 
 </a>
+</div>
 <br>
 
 <p align='center'>
