@@ -47,6 +47,7 @@ But hey, it's all good! It taught me even more programming principles and engine
 
 </p>
 <br>
+<br>
 
 <div align="center">
     <div style="width: 75%">
@@ -59,8 +60,8 @@ But hey, it's all good! It taught me even more programming principles and engine
 <p style="font-size: 24px" align="center">Programming Languages 👨‍💻</p>
 <br>
 <p align='center'>
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/typescript-007acc.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C%23-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=%24a1163">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python-ffd651?style=for-the-badge&logo=python&logoColor=blue">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
@@ -100,25 +101,33 @@ But hey, it's all good! It taught me even more programming principles and engine
 <img src="https://img.shields.io/badge/cypress-22242d.svg?style=for-the-badge&logo=cypress&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/selenium-00ab00.svg?style=for-the-badge&logo=selenium&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/wordpress-424242.svg?style=for-the-badge&logo=wordpress&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/stripe-635bff.svg?style=for-the-badge&logo=stripe&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/graphql-de33a6.svg?style=for-the-badge&logo=graphql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/docker-2391e6.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/redux-6e42b1.svg?style=for-the-badge&logo=redux&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/webpack-8acff3.svg?style=for-the-badge&logo=webpack&logoColor=white">&nbsp;&nbsp;
+
 </p>
 <br><br>
 
 <p align="center"  style="font-size: 24px">Softwares & Apps 🎨</p>
 <br>
 <p align='center'>
-    <img src="https://img.shields.io/badge/Rider-d61063.svg?style=for-the-badge&logo=rider&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual%20Studio-652076.svg?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/postman-f26634.svg?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/insomnia-5445b4.svg?style=for-the-badge&logo=insomnia&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/gitlab-f46a25.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/jira-247df2.svg?style=for-the-badge&logo=jira&logoColor=#00C7B7">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Rider-d61063.svg?style=for-the-badge&logo=rider&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio-652076.svg?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/postman-f26634.svg?style=for-the-badge&logo=postman&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/unity-black.svg?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/insomnia-5445b4.svg?style=for-the-badge&logo=insomnia&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/netlify-0b6481.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/gitlab-f46a25.svg?style=for-the-badge&logo=gitlab&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/jira-247df2.svg?style=for-the-badge&logo=jira&logoColor=#00C7B7">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/trello-095bd1.svg?style=for-the-badge&logo=trello&logoColor=white">&nbsp;&nbsp;
 
 </p>
 <br/><br/>
@@ -137,6 +146,7 @@ But hey, it's all good! It taught me even more programming principles and engine
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009137.svg?style=for-the-badge&logo=nginx&logoColor=white">
+   <img src="https://img.shields.io/badge/aws-f79919.svg?style=for-the-badge&logo=amazon&logoColor=white">
 
 </p>
 <br>
